@@ -13,10 +13,10 @@ public class Dialogo : MonoBehaviour
     public GameObject proxSom;
     public GameObject proxDialogo;
     private GameObject caixaDialogo;
-    private GameObject Extra1Sim;
-    private GameObject Extra2Sim;
-    private GameObject Extra1Nao;
-    private GameObject Extra2Nao;
+    public GameObject Extra1Sim;
+    public GameObject Extra2Sim;
+    public GameObject Extra1Nao;
+    public GameObject Extra2Nao;
     public bool fimDialogo;
 
     // Start is called before the first frame update
